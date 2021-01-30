@@ -1,0 +1,3 @@
+﻿Pour plus d'informations visitez :
+
+http://lagrida.com/informatique/informatique_theorique/analyseur_lexicale.html
